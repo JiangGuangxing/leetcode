@@ -1,6 +1,8 @@
 package per.jgx.leetcode.digui;
 
 /**
+ * Master公式：分析递归方法时间复杂度
+ *
  * 使用递归求数组最大值
  *
  * @author Jiang Guangxing
