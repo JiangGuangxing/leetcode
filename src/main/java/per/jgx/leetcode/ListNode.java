@@ -24,5 +24,6 @@ public class ListNode {
             System.out.print(h.val + " ");
             h = h.next;
         }
+        System.out.println();
     }
 }
